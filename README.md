@@ -49,8 +49,5 @@ Se você deseja contribuir com o projeto:
 ## Licença
 Este projeto está sob a licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
 
-<img src="GatoNet/prints/TelaHome.png" alt="Print do site">
-![Descrição da imagem](GatoNet/prints/TelaHome.png)
-<img src="GatoNet/prints/TelaHome.png" alt="Print do site" width="500">
 
 
