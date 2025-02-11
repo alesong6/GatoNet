@@ -201,6 +201,18 @@ body, ul, li, a {
     padding-left: 30%;
     margin: 2% 0 2%;
   }
+
+  .card-logow img {
+    width: 150px;
+    padding-left: 30%;
+    margin: 16.5% 0 2%;
+  }
+
+  .card-logov img {
+    width: 150px;
+    padding-left: 30%;
+    margin: 10% 0 2%;
+  }
   
   .card-content {
     display: flex;
